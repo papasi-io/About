@@ -21,3 +21,4 @@ Right now, the papasi project is divided into these sub-projects:
 - 💻 **papasi Web APP**: A feature-rich Angular JS web application for cryptocurrency exchange service.
 - 🔱 **papasi God Admin**: Web-based administration panel with multi-level user access to manage the cryptocurrency exchange.
 
+In the next phase of the project, we will set up a **decentralized exchange** ...
