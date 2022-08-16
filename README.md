@@ -17,6 +17,6 @@ It is worth noting that the core team's dream is to make this project more colla
 ## 🧱 What are the subprojects of papasi?
 
 Right now, the papasi project is divided into these sub-projects:
+- 🔱 **Blockchain**: Dedicated blockchain for recording transactions made on the papasi exchange platform based on **Blockcore**
 - ☷ **papasi API**: The cryptocurrency exchange core engine
 - 💻 **papasi Web APP**: A feature-rich Angular JS web application for cryptocurrency exchange service.
-- 🔱 **papasi God Admin**: Web-based administration panel with multi-level user access to manage the cryptocurrency exchange.
