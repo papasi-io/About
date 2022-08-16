@@ -1,6 +1,6 @@
 # About
 ## 🧐 papasi?
-**papasi** is an Open source Exchange platform for cryptocurrencies. Feature-wise, papasi has everything cryptocurrency exchanges have, including user account onboarding, user management, wallet management, matching engine, and deposit/withdraw gateways. Moreover, from the performance and security viewpoint, the project can compete with the industry's top players due to the teams background in the enterprise financial systems programming and blockchain sector.
+**papasi** is an Open source Exchange platform for cryptocurrencies. In terms of features, Papasi has everything that decentralized cryptocurrency exchanges have, including the ability to exchange trustless token swaps, liquidity providing, mining and staking in a non-custodial way.Moreover, from the performance and security viewpoint, the project can compete with the industry's top players due to the teams background in the enterprise financial systems programming and blockchain sector.
 
 ## 🤔 Why use papasi?
 - 🛡️ **Secure**: Privacy first, always. papasi development is compatible with the concerns mentioned on the OWASP top 10 security risks. Moreover, professional software security engineers doing routine audits on the codes.
@@ -20,5 +20,3 @@ Right now, the papasi project is divided into these sub-projects:
 - ☷ **papasi API**: The cryptocurrency exchange core engine
 - 💻 **papasi Web APP**: A feature-rich Angular JS web application for cryptocurrency exchange service.
 - 🔱 **papasi God Admin**: Web-based administration panel with multi-level user access to manage the cryptocurrency exchange.
-
-In the next phase of the project, we will set up a **decentralized exchange** ...
