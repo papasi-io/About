@@ -1,4 +1,6 @@
 # About
+The first decentralized exchange protocols in the Blockcore ecosystem.
+
 ## 🧐 papasi?
 **papasi** is an Open source Exchange platform for cryptocurrencies. In terms of features, Papasi has everything that decentralized cryptocurrency exchanges have, including the ability to exchange trustless token swaps, liquidity providing, mining and staking in a non-custodial way.Moreover, from the performance and security viewpoint, the project can compete with the industry's top players due to the teams background in the enterprise financial systems programming and blockchain sector.
 
